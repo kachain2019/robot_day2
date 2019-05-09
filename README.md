@@ -9,8 +9,10 @@
 
    3. Ignore _ Underscore  ไม่สนใจ _ 
 
+ตัวแปรใน Robot Framework
 - ${scalar name}
 - @{list name}
 - &{dictionary name}
+- ยังเหลืออีก 1 ตัวครับ คือตัวแปร scalar of system รูปแบบ %{name of scalar} ครับ เดี๋ยวว่ากันในเรื่องของการเข้าถึงไฟล์ .xlsx หรือ .csv อีกทีครับ
 
 วิดีโอ : https://www.youtube.com/watch?v=61NfV9qOlNQ&list=PLZ6Bx61eBnB07SRw1zZR5Pad8kheKLftt&index=3
