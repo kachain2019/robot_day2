@@ -1,6 +1,14 @@
 # robot_day2
 ว่าด้วยเรื่องของ Variables 
-- การเข้าถึงตัวแปรรูปแบบต่างๆ 
+
+3 สิ่งที่ควรรู้เกี่ยวกับ Variables 
+
+   1. Case-Insensitive  ตัวพิมพ์เล็ก-ใหญ่เป็นตัวเดียวกัน
+
+   2. Ignore space  ไม่สนใจค่าว่าง
+
+   3. Ignore _ Underscore  ไม่สนใจ _ 
+
 - ${scalar name}
 - @{list name}
 - &{dictionary name}
